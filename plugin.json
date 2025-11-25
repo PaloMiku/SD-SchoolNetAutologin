@@ -1,11 +1,11 @@
 {
-  "name": "Example Plugin",
-  "author": "John Doe",
+  "name": "SchNetAutologin",
+  "author": "PaloMiku",
   "flags": ["debug", "_root"],
   "api_version": 1,
   "publish": {
-    "tags": ["template", "root"],
-    "description": "Decky example plugin.",
+    "tags": ["autologin", "education", "sd-schoolnet"],
+    "description": "自动化校园网登录（基于 ping 检测触发）的 SteamDeck 插件。",
     "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
   }
 }

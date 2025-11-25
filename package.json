@@ -1,7 +1,7 @@
 {
-  "name": "decky-plugin-template",
-  "version": "0.0.1",
-  "description": "A template to quickly create decky plugins from scratch, based on TypeScript and webpack",
+  "name": "sd-schoolnet-autologin",
+  "version": "0.1.0",
+  "description": "Steam Deck plugin to automatically login to campus network when ping target becomes unreachable",
   "type": "module",
   "scripts": {
     "build": "rollup -c",
@@ -19,7 +19,7 @@
     "steam-deck",
     "deck"
   ],
-  "author": "You <you@you.tld>",
+  "author": "PaloMiku",
   "license": "BSD-3-Clause",
   "bugs": {
     "url": "https://github.com/SteamDeckHomebrew/decky-plugin-template/issues"
